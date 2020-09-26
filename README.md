@@ -19,4 +19,4 @@ UI clone do app de stream Twitch Utilizando a abstração EXPO
 > npm start
 
 # Status do projeto
-> Status do Projeto: Concluido :heavy_check_mark:
+## Concluido :heavy_check_mark:
