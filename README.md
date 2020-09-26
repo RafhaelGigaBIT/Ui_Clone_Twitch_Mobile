@@ -26,3 +26,7 @@ UI clone do app de stream Twitch Utilizando a abstração EXPO com react-native
 
 # Status do projeto
 > Concluido :heavy_check_mark:
+
+## Referência :newspaper:
+
+- [RocketSeat, UI Clone](https://www.youtube.com/watch?v=bJVp_vlvMwQ)
