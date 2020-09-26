@@ -1,9 +1,11 @@
 # Clonando o app da Twitch
 UI clone do app de stream Twitch Utilizando a abstração EXPO com react-native
 
-## Linguagens e libs utilizadas :books:
+## Linguagem e libs utilizadas :books:
 
-- [React PDF](https://react-pdf.org/): versão xx.xxx 
+- TypeScript
+- React-native
+- Expo
 
 # Para instalar o EXPO
 ## Com o yarn
